@@ -1,1 +1,1 @@
-# StreamForge Database Configs
+# StreamForge DB Config
